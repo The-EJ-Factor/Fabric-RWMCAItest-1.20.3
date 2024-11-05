@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.theejfactor.rainworldmcaitest.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
